@@ -1,2 +1,3 @@
-# lweya.github.io
-A playground for data enthusiasts.
+# PesaFul
+
+Just banter about finances
